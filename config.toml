@@ -1,5 +1,5 @@
 baseURL = "https://kell05.github.io"
-title = "Soho"
+title = "James Blog"
 theme = "soho"
 languageCode = "en"
 enableInlineShortcodes = true
