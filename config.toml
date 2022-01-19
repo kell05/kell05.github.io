@@ -9,7 +9,7 @@ enableEmoji = true
 
 [params]
 author = "James Kelly"
-description = "My Blog"
+description = "Blog"
 
 ## Set one of:
 # gravatar = "soho@example.com"
