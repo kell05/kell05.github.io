@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/judo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Soho Theme</title>
-      <link>https://example.com/post/judo/warm-up/</link>
+      <link>https://example.com/posts/judo/warm-up/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/judo/warm-up/</guid>
+      <guid>https://example.com/posts/judo/warm-up/</guid>
       <description>Features  Disqus Google Analytics  </description>
     </item>
     
