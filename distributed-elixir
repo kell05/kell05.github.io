@@ -1,1 +1,4 @@
 Build a document based off of: https://github.com/anildigital/talks/blob/master/distributed_systems_in_elixir/Distributed%20Systems%20in%20Elixir.md
+ Deployment 
+ https://zemuldo.com/blog/elixir-mix-releases-by-example---powerful-and-inbuilt-6129462ad2bd8290436304ca
+ systemd https://hauleth.dev/post/who-watches-watchmen-i/
